@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data":{
+        "topicList":[{
+            "id":1,
+            "title":"Hot news",
+            "imgURL":"https://i-1.lanrentuku.com/2020/12/30/fed39ad5-e9a1-4fed-a547-7ac466c4d329.jpg"
+        },
+        {
+            "id":2,
+            "title":"Hot news",
+            "imgURL":"https://i-1.lanrentuku.com/2020/12/30/fed39ad5-e9a1-4fed-a547-7ac466c4d329.jpg"
+        }],
+        "articleList":[{
+            "id":1,
+            "title":"What And Why React.js",
+            "description":"React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js...",
+            "imgURL":"../img/Listimg.png"
+        },
+        {
+            "id":2,
+            "title":"What And Why React.js",
+            "description":"React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js...",
+            "imgURL":"../img/Listimg.png"
+        }],
+        "recommendList": [{
+            "id":1,
+            "imgURL":"../img/recommend.png"
+        },
+        {
+            "id":2,
+            "imgURL":"../img/recommend.png"
+        }]
+    }
+}

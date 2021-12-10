@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "data":{
+        "title": "What And Why React.js", 
+        "content":"<img alt='' src='https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/what-and-why-reactjs/Images/image001.jpg'/><p>React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js. Most fortune 500 companies use Reactjs  In this article, we will learn what React.js (or simply React or Reactjs) is and why we should use Reactjs instead of other JavaScript frameworks like Angular. </p><p>React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React was first created by Jordan Walke, a software engineer working for Facebook. React first deployed on Facebook’s newsfeed in 2011 and on Instagram.com in 2012.</p><p>React allows developers to create large web applications that can change data, without reloading the page. The main purpose of React is to be fast, scalable, and simple. It works only on user interfaces in the application. This corresponds to the view in the MVC template. It can be used with a combination of other JavaScript libraries or frameworks, such as Angular JS in MVC.</p>"
+
+        
+    }
+}

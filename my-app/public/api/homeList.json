@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data":{
+        "articleList":[{
+            "id":3,
+            "title":"What And Why React.js",
+            "description":"React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js...",
+            "imgURL":"../img/Listimg.png"
+        },
+        {
+            "id":4,
+            "title":"What And Why React.js",
+            "description":"React.js is the most popular front-end JavaScript library for building Web applications. React.js or Reactjs or simply React are different ways to represent React.js...",
+            "imgURL":"../img/Listimg.png"
+        }]
+    }
+}
